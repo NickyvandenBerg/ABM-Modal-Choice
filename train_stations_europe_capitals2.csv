@@ -1,0 +1,17 @@
+node;name;city;uic;latitude;longitude;parent_station_id;country;time_zone;agents
+1;Aeroport Paris Roissy Charles de Gaulle CDG;Paris;9903148;49.00412433626132;2.5707364082336426;NA;FR;Europe/Paris;1102
+2;Aeroporto de Lisboa Humberto Delgado;Lisbon;NA;38.7693277;-9.128510400000035;8721;PT;Europe/Lisbon;296
+3;Berlin Brandenburg Flughafen;Berlin;8084407;52.365686;13.512570;NA;DE;Europe/Berlin;356
+4;Brussels-Airport-Zaventem;Brussels;8819406;50.8985400058829;4.483022689819336;NA;BE;Europe/Brussels;208
+5;Budapest Airport;Budapest;NA;47.4329065837921;19.2617931962013;18819;HU;Europe/Budapest;177
+6;Copenhagen Airport;Copenhagen;NA;55.631365;12.656061;NA;DK;Europe/Copenhagen;135
+7;Flughafen Wien;Vienna;8102924;48.120833;16.563056;26862;AT;Europe/Vienna;193
+8;Heathrow Airport;London;NA;51.478443;-0.46134;NA;GB;Europe/London;930
+9;Madrid Barajas;Madrid;7198305;40.4650078;-3.57069739999997;6663;ES;Europe/Madrid;662
+10;Oslo Airport (Gardermoen);Oslo;NA;60.1975501;11.1004152;NA;NO;Europe/Oslo;104
+11;Praha Airport (Vaclav Havel);Prague;NA;50.1063864;14.2687786;17587;CZ;Europe/Prague;131
+12;Roma Ciampino Aeroporto;Rome;8317011;41.80423809568812;12.59955883026123;19309;IT;Europe/Rome;426
+13;Schiphol Airport;Amsterdam;8400561;52.308787;4.761487;NA;NL;Europe/Amsterdam;115
+14;Stockholm Airport (Arlanda);Stockholm;NA;59.6497622;17.9237807;NA;SE;Europe/Stockholm;177
+15;Warszawa Chopin;Warsaw;NA;52.169192;20.973514;10491;PL;Europe/Warsaw;178
+16;Zurich Flughafen;Zurich;8503016;47.450279;8.562333;6401;CH;Europe/Zurich;140
